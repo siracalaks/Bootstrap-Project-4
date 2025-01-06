@@ -2,7 +2,8 @@
 
 A responsive and modern landing page built with Bootstrap 5 and SASS. This project showcases various Bootstrap components and custom styling to create a professional business website template.
 
-![Live Demo]((https://sirac-bootstrap-project-4.netlify.app/))
+[Live Demo](https://sirac-bootstrap-project-4.netlify.app/)
+
 
 ## Features
 
